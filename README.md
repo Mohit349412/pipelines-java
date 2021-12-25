@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/clouduserpa9ea2ef4/Java%20project/_apis/build/status/Java%20project?branchName=master)](https://dev.azure.com/clouduserpa9ea2ef4/Java%20project/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/clouduserpa9ea2ef4/Java-Project/_apis/build/status/Java-Project?branchName=master)](https://dev.azure.com/clouduserpa9ea2ef4/Java-Project/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
