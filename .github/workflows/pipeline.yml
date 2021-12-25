@@ -17,6 +17,6 @@ jobs:
         - name: Azure Pipelines Action
           uses: Azure/pipelines@v1
           with:
-            azure-devops-project-url: https://dev.azure.com/clouduserpa9ea2ef4/Java project
+            azure-devops-project-url: https://dev.azure.com/clouduserpa9ea2ef4/Java-Project
             azure-pipeline-name: 'Java project'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
